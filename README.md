@@ -9,7 +9,6 @@ This is a simple implementation of the Pig Game, a dice-based game for two playe
 3. [Features](#features)
 4. [Installation](#installation)
 5. [Acknowledgments](#acknowledgments)
-6. [License](#license)
 
 ## Description
 
