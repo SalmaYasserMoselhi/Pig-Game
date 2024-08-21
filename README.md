@@ -28,9 +28,27 @@ In this game, players take turns to roll a dice. The goal is to reach a score of
 
 ## Installation
 
-1. Clone this repository:
+To get a local copy up and running, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
    git clone https://github.com/SalmaYasserMoselhi/Pig-Game
-2. Open index.html in your web browser to start playing.
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd pig-game
+   ```
+
+3. **Open `index.html` in your browser:**
+
+   You can simply double-click the `index.html` file to open it in your default web browser, or you can serve the project using a local server like `live-server`:
+
+   ```bash
+   live-server
+   ```
 
 ## Acknowledgments
 
