@@ -52,4 +52,4 @@ To get a local copy up and running, follow these steps:
 
 ## Acknowledgments
 
-- Special thanks to [Jonas Schmedtmann](https://github.com/jonasschmedtmann) for providing the HTML and CSS files for this project.
+- This project is based on course: [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=SKILLS4SALEA).
